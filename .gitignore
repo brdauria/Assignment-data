@@ -1,0 +1,5 @@
+# exclude everything except 3 files 
+/*
+!README.md
+!.gitignore
+!RT_traffic_hourly.csv
